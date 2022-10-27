@@ -7,4 +7,31 @@ body{
 }
 header{
     text-align: center;
+    background-image: url(imagens/ruafavela.jpg);
+    height: 50vw;
+    background-size: cover;
+    background-attachment: fixed;
+    text-shadow:  6px 5px 23px black;
+
 }
+header>h1{
+ padding-top: 20%;
+ color: white;
+ font-size: 8vw;
+}
+header > p{
+    color: white;
+    font-size: 2vw;
+}
+a{
+ color: white;
+text-decoration: none;
+}
+a:hover{
+        background-color: black;
+        border-radius: 4px;
+        padding: 3px;
+        size: 3px;
+}
+
+
