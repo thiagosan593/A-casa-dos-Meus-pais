@@ -33,5 +33,12 @@ a:hover{
         padding: 3px;
         size: 3px;
 }
+footer{
+    background-image: url(imagens/ruafavela.jpg);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-shadow:  6px 5px 23px black;
+}
 
 
