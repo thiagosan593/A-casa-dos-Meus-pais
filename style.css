@@ -3,13 +3,14 @@
     margin: 0px;
 }
 body{
-    background-color: antiquewhite;
+    background-color: transparent;
 }
 header{
     text-align: center;
     background-image: url(imagens/ruafavela.jpg);
     height: 50vw;
     background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-attachment: fixed;
     text-shadow:  6px 5px 23px black;
 
@@ -17,11 +18,11 @@ header{
 header>h1{
  padding-top: 20%;
  color: white;
- font-size: 8vw;
+ font-size: 7vw;
 }
 header > p{
     color: white;
-    font-size: 2vw;
+    font-size: 1.6vw;
 }
 a{
  color: white;
@@ -32,6 +33,20 @@ a:hover{
         border-radius: 4px;
         padding: 3px;
         size: 3px;
+}
+section{
+    background-color: transparent;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 2vw;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section>p{
+ margin-top: 10px;
+ margin-bottom: 10px;
+ padding-bottom: 2em;
+ font-size: 4vw;
 }
 footer{
     background-image: url(imagens/ruafavela.jpg);
