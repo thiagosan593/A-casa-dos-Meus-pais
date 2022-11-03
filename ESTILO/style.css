@@ -12,7 +12,7 @@ body{
 }
 header{
     text-align: center;
-    background-image: url(imagens/ruafavela.jpg);
+    background-image: url(../imagens/ruafavela.jpg);
     height: 50vw;
     background-size: cover;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -60,13 +60,13 @@ section.img{
     background-attachment: fixed;
 }
 #imagem01{
-    background-image: url(imagens/solidao-e-psicologia-1024x683.jpg);
+    background-image: url(../imagens/solidao-e-psicologia-1024x683.jpg);
 }
 #imagem02{
-    background-image: url(imagens/Screenshot_2.png);
+    background-image: url(../imagens/Screenshot_2.png);
 }
 footer{
-    background-image: url(imagens/Screenshot_1.png);
+    background-image: url(../imagens/Screenshot_1.png);
     color: white;
     text-align: center;
     padding: 10px;
